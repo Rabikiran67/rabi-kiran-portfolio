@@ -6,7 +6,7 @@ export default function HeroSection({ setCurrentView }) {
                     Hi, I'm <span className="bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">Rabi Kiran</span>
                 </h2>
                 <h3 className="text-xl md:text-2xl text-gray-600">
-                    Graduate Engineer | Full Stack Developer
+                    Full Stack Developer
                 </h3>
                 
                 <p className="text-gray-700 leading-relaxed text-lg">
@@ -14,8 +14,8 @@ export default function HeroSection({ setCurrentView }) {
                 </p>
                 
                 <p className="text-gray-700 leading-relaxed">
-                    Aspiring Graduate Engineer skilled in software engineering practices, including coding and testing. 
-                    Proficient in client communication and able to convey technical ideas clearly and concisely.
+                     Full Stack Developer with expertise in frontend and backend development, hands-on programming experience, and a 
+                     track record of collaborating with cross-functional teams to deliver scalable solutions.
                 </p>
                 
                 <div className="flex flex-wrap justify-center gap-4 pt-4">

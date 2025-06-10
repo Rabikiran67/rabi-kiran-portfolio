@@ -10,7 +10,7 @@ export default function Education() {
                 <div className="border-l-4 border-indigo-500 pl-6 py-2">
                     <h3 className="text-xl font-semibold text-gray-900">Bachelor of Technology (B Tech) in Electrical & Electronics</h3>
                     <p className="text-gray-700 font-medium">NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY</p>
-                    <p className="text-gray-500">May 2024 | Odisha, Berhampur</p>
+                    <p className="text-gray-500">May 2023 | Odisha, Berhampur</p>
                     <p className="text-gray-600 mt-2">
                         Specialized in electrical systems with coursework in programming and software development.
                         Developed strong problem-solving skills through engineering projects.

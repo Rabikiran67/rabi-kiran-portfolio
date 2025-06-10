@@ -37,7 +37,7 @@ export default function ResumeModal({ onClose }) {
                                 <div className="mb-4">
                                     <h3 className="font-medium text-gray-900">Bachelor of Technology (B Tech) in Electrical & Electronics</h3>
                                     <p className="text-gray-600">NATIONAL INSTITUTE OF SCIENCE AND TECHNOLOGY</p>
-                                    <p className="text-gray-500 text-sm">May 2024 | Odisha, Berhampur</p>
+                                    <p className="text-gray-500 text-sm">May 2023 | Odisha, Berhampur</p>
                                 </div>
                             </div>
 
@@ -116,7 +116,7 @@ export default function ResumeModal({ onClose }) {
 
                 <div className="sticky bottom-0 bg-white border-t border-gray-200 px-6 py-4 flex justify-between">
                     <a
-                        href="#"
+                        href="https://drive.google.com/file/d/19FLnGl4ot-4qH1U8AcjxUXR0JMZX1mJM/view"
                         download="MRabiKiran_Resume.pdf"
                         className="bg-indigo-600 text-white px-6 py-2 rounded-lg hover:bg-indigo-700 focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
                     >
